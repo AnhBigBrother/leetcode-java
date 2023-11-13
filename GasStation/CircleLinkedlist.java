@@ -1,4 +1,4 @@
-package LeetCode.GasStation;
+package GasStation;
 
 public class CircleLinkedlist {
     private int pos;
